@@ -30,7 +30,7 @@ crc = "^1.8.1"
 js-sys = "0.3.37"
 
 [dev-dependencies]
-wasm-bindgen-test = "0.2"
+wasm-bindgen-test = "0.3"
 
 [profile.release]
 opt-level = 3
