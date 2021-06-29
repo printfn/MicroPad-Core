@@ -26,7 +26,7 @@
     "material-icons-font": "^2.1.0",
     "materialize-css": "^1.0.0",
     "mousetrap": "^1.6.1",
-    "opus-recorder": "^4.1.0",
+    "opus-recorder": "^8.0.3",
     "paste-image": "^0.0.3",
     "pdfobject": "^2.1.1",
     "raw-loader": "^4.0.2",
